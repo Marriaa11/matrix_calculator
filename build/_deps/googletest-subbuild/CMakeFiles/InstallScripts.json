@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/maria/projects/matrix_calculator/build/_deps/googletest-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

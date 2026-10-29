@@ -1,0 +1,7 @@
+PROJECT_NAME           = "Matrix Calculator"
+INPUT                  = include src
+RECURSIVE              = YES
+GENERATE_HTML          = YES
+OUTPUT_DIRECTORY       = docs
+HAVE_DOT               = YES
+CALL_GRAPH             = YES
